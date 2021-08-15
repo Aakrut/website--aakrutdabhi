@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website--aakrutdabhi/static/css/main.0d5dac44.chunk.css",
+    "main.js": "/website--aakrutdabhi/static/js/main.2ba84135.chunk.js",
+    "main.js.map": "/website--aakrutdabhi/static/js/main.2ba84135.chunk.js.map",
+    "runtime-main.js": "/website--aakrutdabhi/static/js/runtime-main.306d43c3.js",
+    "runtime-main.js.map": "/website--aakrutdabhi/static/js/runtime-main.306d43c3.js.map",
+    "static/js/2.531415e9.chunk.js": "/website--aakrutdabhi/static/js/2.531415e9.chunk.js",
+    "static/js/2.531415e9.chunk.js.map": "/website--aakrutdabhi/static/js/2.531415e9.chunk.js.map",
+    "static/js/3.db9f8813.chunk.js": "/website--aakrutdabhi/static/js/3.db9f8813.chunk.js",
+    "static/js/3.db9f8813.chunk.js.map": "/website--aakrutdabhi/static/js/3.db9f8813.chunk.js.map",
+    "index.html": "/website--aakrutdabhi/index.html",
+    "static/css/main.0d5dac44.chunk.css.map": "/website--aakrutdabhi/static/css/main.0d5dac44.chunk.css.map",
+    "static/js/2.531415e9.chunk.js.LICENSE.txt": "/website--aakrutdabhi/static/js/2.531415e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.306d43c3.js",
+    "static/js/2.531415e9.chunk.js",
+    "static/css/main.0d5dac44.chunk.css",
+    "static/js/main.2ba84135.chunk.js"
+  ]
+}
