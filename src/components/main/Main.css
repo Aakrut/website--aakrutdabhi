@@ -1,0 +1,137 @@
+.main{
+    padding: 30px 0px 30px 0px;
+}
+
+
+.container{
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content{
+width: 60%;
+margin: 0 auto;
+background: #1476ff;
+display: flex;
+flex-direction: row;
+align-items: center;
+align-content: center;
+border-radius: 25px;
+text-align: center;
+position: relative;
+box-shadow: 0px 6px 10px 0px rgba(39, 39, 39, 0.521);
+transition:all 0.25s ease;
+}
+
+
+.content:hover{
+    transform: translate(0,-6px);
+    box-shadow: 0px 6px 10px 0px rgba(20, 118, 255, 0.42);
+}
+
+.content:active{
+    transform: translate(0,6px);
+    width: 55%;
+}
+
+.container a {
+    display: block;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+    padding: 18px 22px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    box-shadow: 0px 8px 10px 0px #12121227;
+    font-family: 'Poppins';
+    margin: 14px 0;
+}
+
+.container a img{
+    max-width: 22px;
+    position: absolute;
+}
+
+.container a svg{
+    width: 22px;
+    position: absolute;
+    fill: #FFF;
+    left: 20px;
+}
+
+.container a i{
+    font-size: 2.2rem;
+    position: absolute;
+    left: 20px;
+}
+
+
+
+
+
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+
+
+.container{
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+}
+
+/* Mobile */
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+.container{
+    max-width: 380px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.container a {
+    display: block;
+    font-size: 1rem;
+    text-decoration: none;
+    color: white;
+    padding: 20px 28px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    box-shadow: 0px 8px 10px 0px #12121227;
+    font-family: 'Poppins';
+    margin: 14px 0;
+}
+
+.container a i{
+    font-size: 1.8rem;
+    position: absolute;
+    left: 20px;
+}
+
+
+
+}
+
+
